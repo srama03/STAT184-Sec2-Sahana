@@ -28,4 +28,5 @@ In the assignment, I had to find certain statistics related to the cut of the di
 ## Results
 The code outputted a table of the different stats (as mentioned above) across different cuts (fair, good, very good, etc.) 
 <img width="663" alt="Screenshot 2024-11-22 at 2 45 15 PM" src="https://github.com/user-attachments/assets/f42fd7cd-fc95-4781-85e3-5aa3855b5af4">
-
+## Contact
+Please contact me via my [school email](ffs5175@psu.edu)
